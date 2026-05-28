@@ -20,9 +20,9 @@ Spend as much time as you like here 😊
 - A hamburger menu to navigate between app screens
 
 **Future Roadmap:**
-> Starting reading sessions to track your reading
-> Reccomended books displayed on Home Screen
-> Reading E-Books and Audiobooks on the website
+- Starting reading sessions to track your reading
+- Reccomended books displayed on Home Screen
+- Reading E-Books and Audiobooks on the website
 
 **This app is still under developement as I activly work on it throughout my co-op this semester. I plan on continuing to work on it throughout the summer and publish it on the app store.**
 
@@ -30,12 +30,12 @@ Spend as much time as you like here 😊
 **Project Status:** Completed as a final project for highschool computer science course in grade 11
 **Project Description:** A console based shopping application that allows users to browse through a selection of highly anticipated or fictional game titles, add to a card and place an order.
 **Core Features:**
-> Creating and signing into an account, selecting province and realistic tax rates based on the chosen province.
-> Navigating through various pages of highly anticipated or fictional selection of games or browsing by catagory through a sleek ascii based interface
-> Adding or removing an item from cart or choosing quantity of item
-> Complete item inventory system and a staff sign in to restock
-> Viewing the cart and proceeding to checkout, entering delivery adress, paymentment method and getting a reciept at the end
-> Reciept is saved to a text file so simulate sending an email to user
+- Creating and signing into an account, selecting province and realistic tax rates based on the chosen province.
+- Navigating through various pages of highly anticipated or fictional selection of games or browsing by catagory through a sleek ascii based interface
+- Adding or removing an item from cart or choosing quantity of item
+- Complete item inventory system and a staff sign in to restock
+- Viewing the cart and proceeding to checkout, entering delivery adress, paymentment method and getting a reciept at the end
+- Reciept is saved to a text file so simulate sending an email to user
 
 **Language:** Java
 **Core Concepts:** Method Overloading, Parallel Arrays, Input Validation, Text Files for Storing Date, External Methods, and Most Importantly... Teamwork!
