@@ -1,12 +1,12 @@
 # Hi, I'm Param (@LoneeY)!
 Spend as much time as you like here 😊
 
-### About Me
+## About Me
 - **Education:** I'm student at Guelph Collegiate Vocational Institute (Class of 2027). 
 - **Interests:** Very passionate about learning Computer Science. Long term goals are to get into Cybersecurity and AI. Currently working with Python, Java, SwiftUI and Godot.
 - **Current Goals:** Elevate my learning by attending Hackathons and self learning Godot for gamedev.
 
-### My Projects
+# My Projects
 
 ## SwiftUI Co-op Reading App (TaleTrail)
 **Project Status:** Currently in active developement
