@@ -2,9 +2,9 @@
 Spend as much time as you like here 😊
 
 ### About Me
-**Education:** I'm student at Guelph Collegiate Vocational Institute (Class of 2027). 
-**Interests:** Very passionate about learning Computer Science. Long term goals are to get into Cybersecurity and AI. Currently working with Python, Java, SwiftUI and Godot.
-**Current Goals:** Elevate my learning by attending Hackathons and self learning Godot for gamedev.
+- **Education:** I'm student at Guelph Collegiate Vocational Institute (Class of 2027). 
+- **Interests:** Very passionate about learning Computer Science. Long term goals are to get into Cybersecurity and AI. Currently working with Python, Java, SwiftUI and Godot.
+- **Current Goals:** Elevate my learning by attending Hackathons and self learning Godot for gamedev.
 
 ### My Projects
 
@@ -27,8 +27,9 @@ Spend as much time as you like here 😊
 **This app is still under developement as I activly work on it throughout my co-op this semester. I plan on continuing to work on it throughout the summer and publish it on the app store.**
 
 ## Java console based shopping platform application 
-**Project Status:** Completed as a final project for highschool computer science course in grade 11
-**Project Description:** A console based shopping application that allows users to browse through a selection of highly anticipated or fictional game titles, add to a card and place an order.
+- **Project Status:** Completed as a final project for highschool computer science course in grade 11
+- **Project Description:** A console based shopping application that allows users to browse through a selection of highly anticipated or fictional game titles, add to a card and place an order.
+
 **Core Features:**
 - Creating and signing into an account, selecting province and realistic tax rates based on the chosen province.
 - Navigating through various pages of highly anticipated or fictional selection of games or browsing by catagory through a sleek ascii based interface
@@ -37,8 +38,9 @@ Spend as much time as you like here 😊
 - Viewing the cart and proceeding to checkout, entering delivery adress, paymentment method and getting a reciept at the end
 - Reciept is saved to a text file so simulate sending an email to user
 
-**Language:** Java
-**Core Concepts:** Method Overloading, Parallel Arrays, Input Validation, Text Files for Storing Date, External Methods, and Most Importantly... Teamwork!
+## Aditional Info
+- **Language:** Java
+- **Core Concepts:** Method Overloading, Parallel Arrays, Input Validation, Text Files for Storing Date, External Methods, and Most Importantly... Teamwork!
 
 **This application was made for a group final project in a grade 11 computer science course. The games are either purely fictional or belong to their respective corporate owners. Code was written entirely by me and my group members.**
 
