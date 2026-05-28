@@ -26,7 +26,7 @@ Spend as much time as you like here 😊
   - Reccomended books displayed on Home Screen
   - Reading E-Books and Audiobooks on the website
 
-## Aditional Info
+**Aditional Info**
 - **Language:** Swift/SwiftUI
 - **Core Concepts:** API Integration, Sleek and Interactive UI, Product Design, JSON Parsing and Code Structuring
 
@@ -44,7 +44,7 @@ Spend as much time as you like here 😊
 - Viewing the cart and proceeding to checkout, entering delivery adress, paymentment method and getting a reciept at the end
 - Reciept is saved to a text file so simulate sending an email to user
 
-## Aditional Info
+**Aditional Info**
 - **Language:** Java
 - **Core Concepts:** Method Overloading, Parallel Arrays, Input Validation, Text Files for Storing Date, External Methods, and Most Importantly... Teamwork!
 
