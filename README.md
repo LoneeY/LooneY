@@ -13,11 +13,11 @@ Spend as much time as you like here 😊
 **Project Description:** An all in one reading app that allows users to manage, track and personalize their reading with various different features
 **Core Features** 
 **Completed Features:**
-> Live book search through an API and displaying results to the screen
-> Adding Books to your library
-> Creating an account and Logging in to an existing account
-> Viewing books added to your library
-> A hamburger menu to navigate between app screens
+- Live book search through an API and displaying results to the screen
+- Adding Books to your library
+- Creating an account and Logging in to an existing account
+- Viewing books added to your library
+- A hamburger menu to navigate between app screens
 
 **Future Roadmap:**
 > Starting reading sessions to track your reading
