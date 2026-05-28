@@ -6,6 +6,7 @@ Spend as much time as you like here 😊
 - **Interests:** Very passionate about learning Computer Science. Long term goals are to get into Cybersecurity and AI. Currently working with Python, Java, SwiftUI and Godot.
 - **Current Goals:** Elevate my learning by attending Hackathons and self learning Godot for gamedev.
 
+
 # My Projects
 
 ## SwiftUI Co-op Reading App (TaleTrail)
@@ -23,6 +24,10 @@ Spend as much time as you like here 😊
 - Starting reading sessions to track your reading
 - Reccomended books displayed on Home Screen
 - Reading E-Books and Audiobooks on the website
+
+## Aditional Info
+- **Language:** Swift/SwiftUI
+- **Core Concepts:** API Integration, Sleek and Interactive UI, Product Design, JSON Parsing and Code Structuring
 
 **This app is still under developement as I activly work on it throughout my co-op this semester. I plan on continuing to work on it throughout the summer and publish it on the app store.**
 
