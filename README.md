@@ -10,20 +10,21 @@ Spend as much time as you like here 😊
 # My Projects
 
 ## SwiftUI Co-op Reading App (TaleTrail)
-**Project Status:** Currently in active developement
-**Project Description:** An all in one reading app that allows users to manage, track and personalize their reading with various different features
-**Core Features** 
-**Completed Features:**
-- Live book search through an API and displaying results to the screen
-- Adding Books to your library
-- Creating an account and Logging in to an existing account
-- Viewing books added to your library
-- A hamburger menu to navigate between app screens
+- **Project Status:** Currently in active developement
+- **Project Description:** An all in one reading app that allows users to manage, track and personalize their reading with various different features
 
-**Future Roadmap:**
-- Starting reading sessions to track your reading
-- Reccomended books displayed on Home Screen
-- Reading E-Books and Audiobooks on the website
+**Core Features** 
+- **Completed Features:**
+  - Live book search through an API and displaying results to the screen
+  - Adding Books to your library
+  - Creating an account and Logging in to an existing account
+  - Viewing books added to your library
+  - A hamburger menu to navigate between app screens
+
+- **Future Roadmap:**
+  - Starting reading sessions to track your reading
+  - Reccomended books displayed on Home Screen
+  - Reading E-Books and Audiobooks on the website
 
 ## Aditional Info
 - **Language:** Swift/SwiftUI
