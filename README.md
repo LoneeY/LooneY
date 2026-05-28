@@ -52,7 +52,7 @@ Spend as much time as you like here 😊
 - **Core Concepts:** Method Overloading, Parallel Arrays, Input Validation, Text Files for Storing Data, External Methods, and Most Importantly... Teamwork!
 
 **Learn More**
-
+https://github.com/LoneeY/JavaGameStore
 
 **This application was made for a group final project in a grade 11 computer science course. The games are either purely fictional or belong to their respective corporate owners. Code was written entirely by me and my group members.**
 
