@@ -9,8 +9,8 @@ Spend as much time as you like here 😊
 
 # My Projects
 
-## 1️⃣ TaleTrail - SwiftUI Co-op Reading App
-- **Project Status:** Currently in active developement
+## 1️⃣ TaleTrail - SwiftUI School Co-op Reading App
+- **Project Status:** Currently in active development
 - **Project Description:** An all in one reading app that allows users to manage, track and personalize their reading with various different features
 
 **Core Features** 
@@ -23,35 +23,35 @@ Spend as much time as you like here 😊
 
 - **Future Roadmap:**
   - Starting reading sessions to track your reading
-  - Reccomended books displayed on Home Screen
+  - Recommended books displayed on Home Screen
   - Reading E-Books and Audiobooks on the website
 
-**Aditional Info**
+**Additional Info**
 - **Language:** Swift/SwiftUI
 - **Core Concepts:** API Integration, Sleek and Interactive UI, Product Design, JSON Parsing and Code Structuring
 
-**Check it out!**
+**Learn More**
 
 
-**This app is still under developement as I activly work on it throughout my co-op this semester. I plan on continuing to work on it throughout the summer and publish it on the app store.**
+**This app is still under development as I actively work on it throughout my co-op this semester. I plan on continuing to work on it throughout the summer and publish it on the app store.**
 
 ## 2️⃣ Java console based shopping platform application 
 - **Project Status:** Completed as a final project for highschool computer science course in grade 11
-- **Project Description:** A console based shopping application that allows users to browse through a selection of highly anticipated or fictional game titles, add to a card and place an order.
+- **Project Description:** A console based shopping application that allows users to browse through a selection of highly anticipated or fictional game titles, add to a cart and place an order.
 
 **Core Features:**
 - Creating and signing into an account, selecting province and realistic tax rates based on the chosen province.
-- Navigating through various pages of highly anticipated or fictional selection of games or browsing by catagory through a sleek ascii based interface
+- Navigating through various pages of highly anticipated or fictional selection of games or browsing by category through a sleek ascii based interface
 - Adding or removing an item from cart or choosing quantity of item
 - Complete item inventory system and a staff sign in to restock
-- Viewing the cart and proceeding to checkout, entering delivery adress, paymentment method and getting a reciept at the end
-- Reciept is saved to a text file so simulate sending an email to user
+- Viewing the cart and proceeding to checkout, entering delivery address, payment method method and getting a receipt at the end
+- Receipt is saved to a text file so simulate sending an email to user
 
-**Aditional Info**
+**Additional Info**
 - **Language:** Java
-- **Core Concepts:** Method Overloading, Parallel Arrays, Input Validation, Text Files for Storing Date, External Methods, and Most Importantly... Teamwork!
+- **Core Concepts:** Method Overloading, Parallel Arrays, Input Validation, Text Files for Storing Data, External Methods, and Most Importantly... Teamwork!
 
-**Check it out!**
+**Learn More**
 
 
 **This application was made for a group final project in a grade 11 computer science course. The games are either purely fictional or belong to their respective corporate owners. Code was written entirely by me and my group members.**
