@@ -36,15 +36,15 @@ Spend as much time as you like here 😊
 **This app is still under development as I actively work on it throughout my co-op this semester. I plan on continuing to work on it throughout the summer and publish it on the app store.**
 
 ## 2️⃣ Java console based shopping platform application 
-- **Project Status:** Completed as a final project for highschool computer science course in grade 11
+- **Project Status:** Completed as a final project for high school computer science course in grade 11
 - **Project Description:** A console based shopping application that allows users to browse through a selection of highly anticipated or fictional game titles, add to a cart and place an order.
 
 **Core Features:**
 - Creating and signing into an account, selecting province and realistic tax rates based on the chosen province.
-- Navigating through various pages of highly anticipated or fictional selection of games or browsing by category through a sleek ascii based interface
+- Navigating through various pages of highly anticipated or fictional selection of games or browsing by category through a sleek ASCII based interface
 - Adding or removing an item from cart or choosing quantity of item
 - Complete item inventory system and a staff sign in to restock
-- Viewing the cart and proceeding to checkout, entering delivery address, payment method method and getting a receipt at the end
+- Viewing the cart and proceeding to checkout, entering delivery address, payment method and getting a receipt at the end
 - Receipt is saved to a text file so simulate sending an email to user
 
 **Additional Info**
