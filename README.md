@@ -9,7 +9,7 @@ Spend as much time as you like here 😊
 
 # My Projects
 
-## SwiftUI Co-op Reading App (TaleTrail)
+## 1️⃣ TaleTrail - SwiftUI Co-op Reading App
 - **Project Status:** Currently in active developement
 - **Project Description:** An all in one reading app that allows users to manage, track and personalize their reading with various different features
 
@@ -30,9 +30,12 @@ Spend as much time as you like here 😊
 - **Language:** Swift/SwiftUI
 - **Core Concepts:** API Integration, Sleek and Interactive UI, Product Design, JSON Parsing and Code Structuring
 
+**Check it out!**
+
+
 **This app is still under developement as I activly work on it throughout my co-op this semester. I plan on continuing to work on it throughout the summer and publish it on the app store.**
 
-## Java console based shopping platform application 
+## 2️⃣ Java console based shopping platform application 
 - **Project Status:** Completed as a final project for highschool computer science course in grade 11
 - **Project Description:** A console based shopping application that allows users to browse through a selection of highly anticipated or fictional game titles, add to a card and place an order.
 
@@ -48,5 +51,10 @@ Spend as much time as you like here 😊
 - **Language:** Java
 - **Core Concepts:** Method Overloading, Parallel Arrays, Input Validation, Text Files for Storing Date, External Methods, and Most Importantly... Teamwork!
 
+**Check it out!**
+
+
 **This application was made for a group final project in a grade 11 computer science course. The games are either purely fictional or belong to their respective corporate owners. Code was written entirely by me and my group members.**
 
+## Connect with me
+- **Gmail:** shuklaparam1@gmail.com
