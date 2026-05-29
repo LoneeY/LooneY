@@ -30,8 +30,7 @@ Spend as much time as you like here 😊
 - **Language:** Swift/SwiftUI
 - **Core Concepts:** API Integration, Sleek and Interactive UI, Product Design, JSON Parsing and Code Structuring
 
-**Learn More**
-
+**Learn More:** 
 https://github.com/LoneeY/TaleTrail
 
 **This app is still under development as I actively work on it throughout my co-op this semester. I plan on continuing to work on it throughout the summer and publish it on the app store.**
@@ -52,8 +51,8 @@ https://github.com/LoneeY/TaleTrail
 - **Language:** Java
 - **Core Concepts:** Method Overloading, Parallel Arrays, Input Validation, Text Files for Storing Data, External Methods, and Most Importantly... Teamwork!
 
-**Learn More**
-- https://github.com/LoneeY/JavaGameStore
+**Learn More:** 
+https://github.com/LoneeY/JavaGameStore
 
 **This application was made for a group final project in a grade 11 computer science course. The games are either purely fictional or belong to their respective corporate owners. Code was written entirely by me and my group members.**
 
