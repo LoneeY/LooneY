@@ -31,7 +31,8 @@ Spend as much time as you like here 😊
 - **Core Concepts:** API Integration, Sleek and Interactive UI, Product Design, JSON Parsing and Code Structuring
 
 **Learn More**
-- https://github.com/LoneeY/TaleTrail
+
+https://github.com/LoneeY/TaleTrail
 
 **This app is still under development as I actively work on it throughout my co-op this semester. I plan on continuing to work on it throughout the summer and publish it on the app store.**
 
